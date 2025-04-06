@@ -76,7 +76,7 @@ Live Demo: [https://scholar-platform.netlify.app](https://schoolarr.netlify.app/
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/scholar-platform.git
+git clone https://github.com/MahmoudElhefnawyy/Educational-Platform-App.git
 
 npm install
 
